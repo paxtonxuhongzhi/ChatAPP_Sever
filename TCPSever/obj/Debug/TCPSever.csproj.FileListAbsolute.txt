@@ -1,0 +1,10 @@
+E:\TCPSever\bin\Debug\TCPSever.exe.config
+E:\TCPSever\bin\Debug\TCPSever.exe
+E:\TCPSever\bin\Debug\TCPSever.pdb
+E:\TCPSever\obj\Debug\TCPSever.csprojAssemblyReference.cache
+E:\TCPSever\obj\Debug\TCPSever.TCPSever.resources
+E:\TCPSever\obj\Debug\TCPSever.Properties.Resources.resources
+E:\TCPSever\obj\Debug\TCPSever.csproj.GenerateResource.cache
+E:\TCPSever\obj\Debug\TCPSever.csproj.CoreCompileInputs.cache
+E:\TCPSever\obj\Debug\TCPSever.exe
+E:\TCPSever\obj\Debug\TCPSever.pdb
